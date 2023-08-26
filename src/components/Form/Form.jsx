@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from 'prop-types'
-import * as Yup from 'yup';
+import * as Yup from 'yup'
 import { Formik } from 'formik'
 
 import { AddBtn,StyledError, Label, MainForm, Input } from './Form.styled'

@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://theGreatGrandfather.github.io/goit-react-hw-03-phonebook/",
   "dependencies": {
+    "@emotion/css": "^11.11.2",
     "@emotion/react": "^11.11.1",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
